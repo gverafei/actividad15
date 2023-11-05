@@ -362,3 +362,4 @@ MigrationBackup/
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
 /CorreoFei/appsettings.json
+/CorreoFei/appsettings.Development.json
